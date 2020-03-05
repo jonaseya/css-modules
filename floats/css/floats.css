@@ -1,0 +1,21 @@
+img {
+  float: right;
+  height: 350px;
+  width: 600px;
+  border: 2px solid;
+}
+body {
+  background-image:url(real.jpg);
+  background-size: cover;
+  color: yellow;
+  font-weight: bold;
+
+}
+h1 {
+  font-size: 45px;
+  font-family: Arial;
+  text-decoration: underline;
+}
+.Main {
+  float: left;
+}

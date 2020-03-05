@@ -1,0 +1,21 @@
+.intro {
+  font-style: italic;
+}
+.Source {
+  color: blue;
+  font-style: italic;
+  font-size: 13px;
+ p.Source {
+  font-size: 15px
+}
+}
+img {
+  height: 600px;
+  border: center;
+  position: center;
+}
+
+body {
+  font-family: fantasy;
+  background-color: coral;
+}

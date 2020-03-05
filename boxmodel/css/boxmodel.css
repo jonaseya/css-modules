@@ -1,0 +1,17 @@
+.Box-model {
+  border-left: 4px solid yellow;
+  border-right: 6px solid green;
+  border-top: 6px solid green;
+  border-bottom: 4px solid yellow;
+  padding: 6px;
+  margin: 20px;
+  color: yellow;
+  background-color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+body {
+  background-image: url(back.jpg);
+  background-size: cover;
+}
